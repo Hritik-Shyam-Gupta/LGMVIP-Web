@@ -19,7 +19,9 @@ Group of projects/ Tasks completed by me as a part of a Web Development Intern a
 <p>Status     : Completed</p>
 <p>Demo       :  </p>
 
-Uploading LGMVIP Task 1.mp4…
+
+https://user-images.githubusercontent.com/76250630/151702735-45fed853-7c46-4712-8272-a6cabe6be98a.mp4
+
 
 
 
@@ -36,7 +38,6 @@ Uploading LGMVIP Task 1.mp4…
 
 
 
-
 https://user-images.githubusercontent.com/76250630/151702551-97be119e-d14f-4111-8f4d-663ec1c86ed3.mp4
 
 
@@ -44,6 +45,7 @@ https://user-images.githubusercontent.com/76250630/151702551-97be119e-d14f-4111-
 
 ##Medium Blog Link:
 
+https://medium.com/@chriscenahs3105/lgmvip-internship-experience-blog-5f199a59d5c0
 
 
 ---------------------------------------------------------------
